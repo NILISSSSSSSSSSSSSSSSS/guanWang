@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # my-project
 
@@ -24,3 +25,6 @@ npm run e2e
 # run all tests
 npm test
 
+=======
+# guanWang
+>>>>>>> 02d1f8790dcce8b219b0e622b1ebae5b4b0d4cf3
