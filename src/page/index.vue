@@ -27,7 +27,7 @@
 
 <script>
 import tapHeader from "../components/tapHeader.vue"
-import tapFooter from "../components/tapFooter.vue"
+import TapFooter from "../components/TapFooter.vue"
   export default {
     name:"index",
     data(){
@@ -39,7 +39,7 @@ import tapFooter from "../components/tapFooter.vue"
     components: {
       // <my-component> 将只在父组件模板中可用
       'tap-header': tapHeader,
-       'tap-footer': tapFooter
+       'tap-footer': TapFooter
     },
     mounted(){
      this.$nextTick(function () {
