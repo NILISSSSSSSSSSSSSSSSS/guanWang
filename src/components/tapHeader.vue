@@ -4,7 +4,7 @@
           <img src="../assets/logo.png" class="logo" alt="">
           <div class="headerRight">
               <template v-for="(item,index) in menu"  >
-                 <router-link :to="item.link" >{{item.text}}33333333333333</router-link>
+                 <router-link :to="item.link" >{{item.text}}5555555555</router-link>
               </template>   
              
              <!-- <router-link to="/destruction" > OTCEX介绍</router-link>
