@@ -2,7 +2,7 @@
   <div class="footer">
        <div class="footerBox commonWidth">
            <div class="footerColumn">
-               <p class="tit">关于我们</p>
+               <p class="tit">关于我们master</p>
                <div class="footerItems"> 
                     <span @click="$router.push({path: '/companyJianJie'})">公司简介</span>
                     <span @click="$router.push({path: '/destruction'})">OTCEX介绍</span>
