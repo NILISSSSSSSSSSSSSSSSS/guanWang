@@ -13,7 +13,7 @@
 </template>
 
 <style scoped>
-  /*@import '../commonStyle/common.css';*/
+  /*@import '../CommonStyle/common.css';*/
   .indexBox{
    flex-direction: column;align-items: center;border: 0;    width: 100%;
   }
