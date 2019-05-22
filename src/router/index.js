@@ -1,12 +1,12 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import index from '@/page/index'
-import homeView from '@/page/home'
-import destruction from '@/page/destruction'
-import companyJianJie from '@/page/companyJianJie'
+import index from '@/Page/index'
+import homeView from '@/Page/home'
+import destruction from '@/Page/destruction'
+import companyJianJie from '@/Page/companyJianJie'
 
 
-// import notFind from '@/page/404'
+// import notFind from '@/Page/404'
 Vue.use(Router);
 
 export default new Router({

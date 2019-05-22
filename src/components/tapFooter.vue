@@ -2,9 +2,9 @@
   <div class="footer">
        <div class="footerBox commonWidth">
            <div class="footerColumn">
-               <p class="tit">关于我们testtest</p>
+               <p class="tit">关于我们</p>
                <div class="footerItems"> 
-                    <span @click="$router.push({path: '/companyJianJie'})">公司简介test</span>
+                    <span @click="$router.push({path: '/companyJianJie'})">公司简介</span>
                     <span @click="$router.push({path: '/destruction'})">OTCEX介绍</span>
                     <span  onclick="window.open('https://www.lagou.com/gongsi/214704.html')">加入我们</span>
                  </div>

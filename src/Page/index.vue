@@ -26,7 +26,7 @@
 </style>
 
 <script>
-import tapHeader from "../Components/tapHeader.vue"
+import tapHeader from "../Components/TapHeader.vue"
 import TapFooter from "../Components/TapFooter.vue"
   export default {
     name:"index",
