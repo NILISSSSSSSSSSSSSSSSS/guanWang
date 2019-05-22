@@ -13,7 +13,7 @@
 </template>
 
 <style scoped>
-  /*@import '../CommonStyle/common.css';*/
+  /*@import '../commonStyle/common.css';*/
   .indexBox{
    flex-direction: column;align-items: center;border: 0;    width: 100%;
   }
@@ -26,8 +26,8 @@
 </style>
 
 <script>
-import tapHeader from "../Components/TapHeader.vue"
-import TapFooter from "../Components/TapFooter.vue"
+import tapHeader from "../components/TapHeader.vue"
+import TapFooter from "../components/TapFooter.vue"
   export default {
     name:"index",
     data(){
